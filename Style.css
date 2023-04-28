@@ -16,7 +16,7 @@ body::-webkit-scrollbar {
 /*Home*/
 .banner{
 	width: 100%;
-	background: linear-gradient(rgba(0,0,0,0.75),black), url(/Home/Background.jpeg);
+	background: linear-gradient(rgba(0,0,0,0.75),black), url(Background.jpeg);
 	background-size: cover;
 	background-position: center;
 	height: 100vh;
@@ -180,7 +180,7 @@ form{
 #formuliersection{
 	margin: 0 auto;
 	width: 100%;
-	background: linear-gradient(black,rgba(0,0,0,0.75)), url(/Foto1.jpg);
+	background: linear-gradient(black,rgba(0,0,0,0.75)), url(Foto1.jpg);
 	background-size: cover;
 	height: 100vh;
 }
@@ -199,7 +199,7 @@ form{
 #achtergrondcalender{
 	margin: 0 auto;
 	width: 100%;
-	background: linear-gradient(black,rgba(0,0,0,0.80) ,black), url(/foto11+9.jpg);
+	background: linear-gradient(black,rgba(0,0,0,0.80) ,black), url(foto11+9.jpg);
 	background-size:cover;
 	height: 100vh;
 	background-repeat: no-repeat;
